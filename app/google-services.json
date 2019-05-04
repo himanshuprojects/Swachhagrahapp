@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "28626915002",
+    "firebase_url": "https://swachhagrahmobileapp.firebaseio.com",
+    "project_id": "swachhagrahmobileapp",
+    "storage_bucket": "swachhagrahmobileapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28626915002:android:829855fde082d386",
+        "android_client_info": {
+          "package_name": "com.example.swachhagrahmobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28626915002-ndd6eh8jeqmnrsedbbl2jk0ao4sofhga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.swachhagrahmobileapp",
+            "certificate_hash": "a327d1a48f71f86204bf7d490aa0ab3ffd47e389"
+          }
+        },
+        {
+          "client_id": "28626915002-ecbtaq1hjut1b4ep8lvtr5vds1ha0asd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDh4ezHNHok4wxhbc_sjTwYqpHriQePOc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28626915002-ecbtaq1hjut1b4ep8lvtr5vds1ha0asd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
