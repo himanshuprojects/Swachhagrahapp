@@ -9,11 +9,11 @@ An appeal for cleanliness
 
 ## Splash screen
 
-![](https://media.giphy.com/media/J01RxwG03g8UHo9NMT/giphy.gif)
+![**wait to load GIF**](https://media.giphy.com/media/J01RxwG03g8UHo9NMT/giphy.gif)
 
 ## Login/ Register screen
 
-![](https://i.ibb.co/qg0NxCN/Screenshot-2019-05-12-22-40-47-64.png)
+![**wait to load IMAGE**](https://i.ibb.co/qg0NxCN/Screenshot-2019-05-12-22-40-47-64.png)
 
 ## Registration of Citizen
 
@@ -52,12 +52,15 @@ An appeal for cleanliness
 ![](https://i.ibb.co/pPG9YVf/Screenshot-2019-05-12-22-48-48-13.png)
 
 ## Home Screen of Municipal corp.
-
 > This shows the problem posted by ajmer citizen(Municipal corp only follows his own city people).
 >
 > here municipal corp. can _**react**_(🙁), _**comment**_ to acknowledge citizen that they are solving this problem and _**save**_ the post until it was solved. 
 
-![](https://media.giphy.com/media/dWT185aMtVc28b0Llz/giphy.gif)
+### Reacting and saving
+![**wait to load GIF**](https://i.ibb.co/kmzjRDb/ezgif-com-optimize-1.gif)
+
+### Commenting
+![**wait to load GIF**](https://i.ibb.co/Nsv0H3d/ezgif-com-optimize.gif)
 
 ## After solving the specific problem municipal corp will post solved problem img.
 
@@ -85,7 +88,7 @@ An appeal for cleanliness
 
 ## Citizen giving rating to municipal corp.
 
-![](https://media.giphy.com/media/XbCBICgb7zN48nqufr/giphy.gif)
+![**wait to load GIF**](https://media.giphy.com/media/XbCBICgb7zN48nqufr/giphy.gif)
 
 ## Logout screen
 
